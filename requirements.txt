@@ -1,0 +1,9 @@
+requests
+docker
+docker-compose
+psycopg2-binary
+SQLAlchemy
+asyncio
+aiohttp
+more-itertools
+asyncpg
